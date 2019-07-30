@@ -1,0 +1,6 @@
+uname -i
+cat
+top
+free -m
+crontab
+
